@@ -5,6 +5,8 @@ This project performs real-time traffic analysis using CUDA for vehicle detectio
 
 ---
 
+## Demo Video : https://www.youtube.com/watch?v=44rSNGUDdVY
+
 ## Project Overview
 
 The **Real-time Traffic Analysis with CUDA Object Detection** project focuses on detecting vehicles in a video stream using YOLOv5 for object detection and CUDA for accelerating the speed estimation of the detected vehicles. The results are visualized in several insightful plots that allow an understanding of traffic conditions in a specific area.
