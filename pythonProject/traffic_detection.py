@@ -1,3 +1,13 @@
+#--------------------------------------------------------------------------------------------------------------------------------------------------
+# Project : Real-time Traffic Analysis with CUDA Object Detection
+#
+# Implemented CUDA-accelerated object detection (YOLO) to analyze a sample image dataset. Performed vehicle counting and simulated speed estimation
+# to demonstrate real-time traffic analysis capabilities.
+#
+# Author: Arsheya Raj
+# Date: 11th April 2025
+#--------------------------------------------------------------------------------------------------------------------------------------------------
+
 import cv2
 import numpy as np
 import onnxruntime as ort
