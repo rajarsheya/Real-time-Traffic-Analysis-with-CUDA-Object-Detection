@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CUDA Projects\\Real-time Traffic Analysis with CUDA Object Detection\\CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132D4198-4B6B-416F-9D2C-88A8C0307D67}|CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection.vcxproj|D:\\CUDA Projects\\Real-time Traffic Analysis with CUDA Object Detection\\CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{132D4198-4B6B-416F-9D2C-88A8C0307D67}|CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\CUDA Projects\\Real-time Traffic Analysis with CUDA Object Detection\\CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection\\kernel.cu",
+              "RelativeDocumentMoniker": "kernel.cu",
+              "ToolTip": "D:\\CUDA Projects\\Real-time Traffic Analysis with CUDA Object Detection\\CUDA-Real-time-Traffic-Analysis-with-CUDA-Object-Detection\\kernel.cu",
+              "RelativeToolTip": "kernel.cu",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAwwH8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T04:52:09.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
